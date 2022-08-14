@@ -130,4 +130,5 @@ dmypy.json
 
 # Ratings CSV file too large
 ratings.csv
+
 movies_metadata.csv
