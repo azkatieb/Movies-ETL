@@ -128,10 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Ratings CSV file too large
+# Challenge Files to Ignore
 ratings.csv
-
 movies_metadata.csv
-
-# Database Password
 config.py
