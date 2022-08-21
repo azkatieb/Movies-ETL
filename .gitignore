@@ -132,3 +132,6 @@ dmypy.json
 ratings.csv
 
 movies_metadata.csv
+
+# Database Password
+config.py
