@@ -130,5 +130,4 @@ dmypy.json
 
 # Challenge Files to Ignore
 ratings.csv
-movies_metadata.csv
 config.py
